@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+body #roll{
+    border: 1px solid navy;
+    border-radius: 7px;
+    display: inline-block;
+    color: navy;
+    margin: 2px 0;
+    text-align: center;
+    padding: 5px 5px;
+    background-color: #5f95c4;
+    cursor: pointer;
+    box-shadow: 1px 1px 2px gray;
+    letter-spacing: 1px;
+}
+body #nam{
+    border: 1px solid navy;
+    border-radius: 7px;
+    display: inline-block;
+    color: navy;
+    margin: 2px 0;
+    text-align: center;
+    padding: 5px 5px;
+    background-color: #5f95c4;
+    cursor: pointer;
+    box-shadow: 1px 1px 2px gray;
+    letter-spacing: 1px;
+}
